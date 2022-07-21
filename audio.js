@@ -2,7 +2,7 @@ Amplitude.init({
     "songs": [
       {
         "name": "Gini mere oji joo njo nke ukwu, iwakpo umu nwanyi?",
-        "url": "./mp3/ig020101.mp3",
+        "url": "./mp3/test.mp3",
       },
       
       {
